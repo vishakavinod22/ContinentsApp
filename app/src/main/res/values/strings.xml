@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExploreCities</string>
+    <string name="city_card_image">city card image</string>
+    <string name="city_name">City Name:</string>
+    <string name="continent_name">Continent Name:</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="spoken_language">Spoken Language:</string>
+    <string name="population">Population:</string>
+    <string name="famous_dish">Famous Dish:</string>
+</resources>
