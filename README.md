@@ -4,8 +4,6 @@
 
 This assignment focuses on utilizing **RecyclerViews**, **CardViews**, and **Fragments** in Kotlin to develop an application showcasing city details across different continents. When the user launches the app, a list of all seven continents is displayed. Upon selecting a continent, the cities from that continent are shown in a card view. For each city, users can explore additional details within a reusable fragment for a consistent presentation.
 
----
-
 ## Technical Details & Code Structure
 
 This project is developed using **Android Studio** with Kotlin, and all activities are declared in the `AndroidManifest.xml` file.
@@ -29,8 +27,6 @@ This project is developed using **Android Studio** with Kotlin, and all activiti
 ### **CityInfoFragment**
 - Renders detailed city information received from `CityInfoActivity.kt`.
 
----
-
 ## Project Screenshots
 
 ### List of Continents
@@ -42,13 +38,9 @@ This project is developed using **Android Studio** with Kotlin, and all activiti
 ### Details for the City Casablanca
 ![City Casablanca Details](./images/casablanca_details.png)
 
----
-
 ## Conclusion
 
 This assignment allowed me to explore the concepts of **RecyclerView**, **CardViews**, and **Fragments**. I also gained a deeper understanding of reusing components and passing data efficiently through intents.
-
----
 
 ## References
 
